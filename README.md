@@ -49,4 +49,17 @@ https://drive.google.com/drive/folders/1so_7L1fhqBd_i8KM9oZWS1UgYFJ9OYbd?usp=sha
   <img src="https://github.com/sabrinaMKE201073/Bird-Species-Classification-Training-System/assets/95947484/3c4e4d96-1515-48dc-81b2-f96e3016aa77">
 </p>
 
+---
+
+# RESULTS (DATA VISUALIZATION)
+
+1) Confusion matrix of different type Keras Moodel on dataset 1
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/Bird-Species-Classification-Training-System/assets/95947484/793b1165-98c6-49cb-8fc7-5204f7545617">
+</p>
+
+2) Confusion matrix of different type Keras Moodel on dataset 2
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/Bird-Species-Classification-Training-System/assets/95947484/f210eb5c-330c-453d-84b6-4a5dc7d66873">
+</p>
 
