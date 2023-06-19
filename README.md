@@ -23,6 +23,11 @@ researchers in tracking rare bird species for ecosystem preservation.
 
 ---
 Dataset 1
+
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/Bird-Species-Classification-Training-System/assets/95947484/c003c44a-463f-4d83-a8c8-724a0686a1aa">
+</p>
+
 https://drive.google.com/drive/folders/17dRfXkEYmQ4WkVnHqtaygVW3c6E-dfRX?usp=sharing
 
 Dataset 2
