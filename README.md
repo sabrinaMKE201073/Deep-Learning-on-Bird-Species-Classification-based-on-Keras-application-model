@@ -51,6 +51,14 @@ https://drive.google.com/drive/folders/1so_7L1fhqBd_i8KM9oZWS1UgYFJ9OYbd?usp=sha
 
 ---
 
+# A PART OF PROCESS ON TRAINING THE DATA
+
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/Deep-Learning-on-Bird-Species-Classification-based-on-Keras-application-model/assets/95947484/e3e80dc5-7664-461a-91e1-6086ebf5e2c2">
+</p>
+
+---
+
 # RESULTS (DATA VISUALIZATION)
 
 1) Confusion matrix of different type Keras Moodel on dataset 1
