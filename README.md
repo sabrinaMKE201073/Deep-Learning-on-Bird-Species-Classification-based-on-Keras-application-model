@@ -70,22 +70,22 @@ https://drive.google.com/drive/folders/1so_7L1fhqBd_i8KM9oZWS1UgYFJ9OYbd?usp=sha
   <img src="https://github.com/sabrinaMKE201073/Deep-Learning-on-Bird-Species-Classification-based-on-Keras-application-model/assets/95947484/72e0260b-f1c6-4947-8833-eec832f4ff84">
 </p>
 
-1) Confusion matrix of different type Keras Moodel on dataset 1
+2) Confusion matrix of different type Keras Moodel on dataset 1
 <p align="center">
   <img src="https://github.com/sabrinaMKE201073/Deep-Learning-on-Bird-Species-Classification-based-on-Keras-application-model/assets/95947484/ec2a75df-9190-42aa-a4ed-bf1393349f6d">
 </p>
 
-2) Confusion matrix of different type Keras Moodel on dataset 2
+3) Confusion matrix of different type Keras Moodel on dataset 2
 <p align="center">
   <img src="https://github.com/sabrinaMKE201073/Deep-Learning-on-Bird-Species-Classification-based-on-Keras-application-model/assets/95947484/18344564-414a-4f14-a76e-1a7713d17392">
 </p>
 
-3) Performance Analysis based on Accuracies
+4) Performance Analysis based on Accuracies
 <p align="center">
   <img src="https://github.com/sabrinaMKE201073/Bird-Species-Classification-Training-System/assets/95947484/df04f001-4262-4259-95c8-54419bd82fa3">
 </p>
    
-4) Performance Analysis based on training loss during iteration and Execution time
+5) Performance Analysis based on training loss during iteration and Execution time
 <p align="center">
   <img src="https://github.com/sabrinaMKE201073/Bird-Species-Classification-Training-System/assets/95947484/5166caa6-8ab0-4a14-a093-73df25018f1b">
 </p>
