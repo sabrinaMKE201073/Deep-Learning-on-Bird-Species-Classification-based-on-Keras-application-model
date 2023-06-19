@@ -24,6 +24,7 @@ validation accuracy for dataset 1. This system will be beneficial for ornitholog
 researchers in tracking rare bird species for ecosystem preservation.
 
 ---
+
 # DATASET
 
 <p align="center">
@@ -39,7 +40,9 @@ Dataset 1: https://drive.google.com/drive/folders/17dRfXkEYmQ4WkVnHqtaygVW3c6E-d
 
 Dataset 2
 https://drive.google.com/drive/folders/1so_7L1fhqBd_i8KM9oZWS1UgYFJ9OYbd?usp=sharing
+
 ---
+
 # METHOD
 
 <p align="center">
