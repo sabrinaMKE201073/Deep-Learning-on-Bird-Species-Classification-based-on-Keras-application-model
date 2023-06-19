@@ -1,12 +1,7 @@
 # Bird-Species-Classification-Training-System
 Inception V3, ResNet 152V2, DenseNet 121, and DenseNet 169
 
-Dataset 1
-https://drive.google.com/drive/folders/17dRfXkEYmQ4WkVnHqtaygVW3c6E-dfRX?usp=sharing
-
-Dataset 2
-https://drive.google.com/drive/folders/1so_7L1fhqBd_i8KM9oZWS1UgYFJ9OYbd?usp=sharing
-
+---
 Abstract. For the past few years, the rapid extinction of many bird species due to climate change
 and habitat destruction caused by human activities is a growing concern. Accurately tracking the
 distribution of these species and understanding the factors that contribute to a region's
@@ -25,3 +20,10 @@ Phyton on Google Collab with Tesla T4 GPU. Results showed that DenseNet169 had t
 performance for both datasets, with 95% accuracy for dataset 2 and 85% training and 86%
 validation accuracy for dataset 1. This system will be beneficial for ornithologists and
 researchers in tracking rare bird species for ecosystem preservation.
+
+---
+Dataset 1
+https://drive.google.com/drive/folders/17dRfXkEYmQ4WkVnHqtaygVW3c6E-dfRX?usp=sharing
+
+Dataset 2
+https://drive.google.com/drive/folders/1so_7L1fhqBd_i8KM9oZWS1UgYFJ9OYbd?usp=sharing
