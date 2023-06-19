@@ -57,18 +57,27 @@ https://drive.google.com/drive/folders/1so_7L1fhqBd_i8KM9oZWS1UgYFJ9OYbd?usp=sha
   <img src="https://github.com/sabrinaMKE201073/Deep-Learning-on-Bird-Species-Classification-based-on-Keras-application-model/assets/95947484/e3e80dc5-7664-461a-91e1-6086ebf5e2c2">
 </p>
 
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/Deep-Learning-on-Bird-Species-Classification-based-on-Keras-application-model/assets/95947484/2f1e3237-628a-4776-8294-c29316b81234">
+</p>
+
 ---
 
 # RESULTS (DATA VISUALIZATION)
 
+1) Plots of training accuracies & loss using DenseNet169 on dataset 1 and 2
+<p align="center">
+  <img src="https://github.com/sabrinaMKE201073/Deep-Learning-on-Bird-Species-Classification-based-on-Keras-application-model/assets/95947484/72e0260b-f1c6-4947-8833-eec832f4ff84">
+</p>
+
 1) Confusion matrix of different type Keras Moodel on dataset 1
 <p align="center">
-  <img src="https://github.com/sabrinaMKE201073/Bird-Species-Classification-Training-System/assets/95947484/793b1165-98c6-49cb-8fc7-5204f7545617">
+  <img src="https://github.com/sabrinaMKE201073/Deep-Learning-on-Bird-Species-Classification-based-on-Keras-application-model/assets/95947484/ec2a75df-9190-42aa-a4ed-bf1393349f6d">
 </p>
 
 2) Confusion matrix of different type Keras Moodel on dataset 2
 <p align="center">
-  <img src="https://github.com/sabrinaMKE201073/Bird-Species-Classification-Training-System/assets/95947484/f210eb5c-330c-453d-84b6-4a5dc7d66873">
+  <img src="https://github.com/sabrinaMKE201073/Deep-Learning-on-Bird-Species-Classification-based-on-Keras-application-model/assets/95947484/18344564-414a-4f14-a76e-1a7713d17392">
 </p>
 
 3) Performance Analysis based on Accuracies
