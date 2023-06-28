@@ -2,7 +2,7 @@
 Inception V3, ResNet 152V2, DenseNet 121, and DenseNet 169
 
 ---
-# ABSTRACT
+#ABSTRACT
 
   For the past few years, the rapid extinction of many bird species due to climate change
 and habitat destruction caused by human activities is a growing concern. Accurately tracking the
@@ -25,7 +25,7 @@ researchers in tracking rare bird species for ecosystem preservation.
 
 ---
 
-# DATASET
+#DATASET
 
 <p align="center">
   <img src="https://github.com/sabrinaMKE201073/Bird-Species-Classification-Training-System/assets/95947484/c003c44a-463f-4d83-a8c8-724a0686a1aa">
