@@ -63,7 +63,7 @@ https://drive.google.com/drive/folders/1so_7L1fhqBd_i8KM9oZWS1UgYFJ9OYbd?usp=sha
 
 ---
 
-# RESULTS (DATA VISUALIZATION)
+# RESULTS(DATA VISUALIZATION)
 
 1) Plots of training accuracies & loss using DenseNet169 on dataset 1 and 2
 <p align="center">
